@@ -1,4 +1,3 @@
-markdown
 # <PROJECT TITLE>
 
 > Code and data accompanying:  
