@@ -1,4 +1,4 @@
-## <PROJECT TITLE>
+## Astur Genomics
 
 > Code and data accompanying:  
 > **<Full publication title>**  
