@@ -19,8 +19,8 @@ Kunz and Chai equally contributing first author
 
 ----
 
-The repository contains: 
-+) the final files used in phylogegentic analyses
+The repository contains:
+the final files used in phylogegentic analyses
 	-) FINAL_63inds.vcf: This is the final data file in VCF format, AFTER the stackspipeline BEFORE individuals were removed based on percentage of missing data
 	-) FINAL_63inds.nexus: This is the same data as FINAL_63inds.vcf but in NEXUS format.
 	-) FINAL_52inds_manuel.nexus: This is the final data file used in the phylogenetic analyses, AFTER individuals were removed based on missing percentage. It includes 52 individuals genotyped at 40,116 SNP loci (of which 39,903 were polymorph).
