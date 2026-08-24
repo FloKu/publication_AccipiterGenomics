@@ -1,5 +1,44 @@
+markdown
+# <PROJECT TITLE>
 
-The repository contains the codes and input files for the phylogenetic analyses, described and published in the paper
+> Code and data accompanying:  
+> **<Full publication title>**  
+> <Author One>, <Author Two>, <Author Three>  
+> *<Journal / Venue>*, <Year>  
+> DOI: <DOI or "in press">
+
+---
+
+## 1. Overview
+
+This repository contains code and data used in:
+
+- **Publication:** <Full publication title>  
+- **Authors:** <Author list>  
+- **Affiliations:** <Institutions / research groups>  
+- **DOI / URL:** <DOI, preprint, or project link>  
+
+**Short summary (1–3 sentences):**  
+<Brief description of the research question and what this repository provides, e.g., analysis scripts, processed data, figures, etc.>
+
+---
+
+## 2. Repository Structure
+
+```text
+<repo-root>/
+├─ data/              # Raw or processed data (describe level of processing)
+├─ scripts/           # Analysis / processing scripts
+├─ src/               # Source code (functions, modules, packages)
+├─ notebooks/         # Jupyter / RMarkdown / analysis notebooks
+├─ results/           # Output tables, figures, and intermediate results
+├─ docs/              # Additional documentation, supplementary material
+└─ README.md          # This file
+
+
+
+
+## The repository contains the codes and input files for the phylogenetic analyses, described and published in the paper
 
 "Goshawk genomics: Genome wide Single Nucleotide Polymorphisms (SNPs) confirm Species Status of Astur gentilis and Astur atricapillus"
 
