@@ -29,7 +29,8 @@ This repo contains the files and codes used in the publication. Raw reads used i
 
 ```text
 <repo-root>/
-├─ final_files/       # Processed data used as input for phylogenetic analyses
-├─ scripts/           # Helper scripts used throughout the pipeline
-├─ shell/             # Main analysis pipeline, from raw data to final files
-└─ README.md          # This file
+├─ final_files/            # Processed data used as input for phylogenetic analyses
+├─ scripts/                # Helper scripts used throughout the pipeline
+├─ shell/                  # shell scripts produced and called in the main_analysis_pipeline
+├─ main_analysis_pipeline  # Main analysis pipeline, from raw data to final files
+└─ README.md               # This file
