@@ -1,4 +1,4 @@
-# <PROJECT TITLE>
+## <PROJECT TITLE>
 
 > Code and data accompanying:  
 > **<Full publication title>**  
